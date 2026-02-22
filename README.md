@@ -30,7 +30,7 @@ Try it out here 👉 [MovieDb](https://thefaraazansari.github.io/movie-db/)
 
 ## 📸 Screenshot
 
-![MovieDb Screenshot](./screenshot2.png)
+![MovieDb Screenshot](./media.png)
 
 ## 🎯 Who is this for?
 
